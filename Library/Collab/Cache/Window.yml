@@ -14,26 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Animation/Collections.meta
-    - Assets/Animation/Collections/Cherry.anim
-    - Assets/Animation/Collections/Cherry.anim.meta
-    - Assets/Animation/Collections/Cherry.controller
-    - Assets/Animation/Collections/Cherry.controller.meta
+    - Assets/Animation/Character/Character.controller
     - Assets/Scripts/CharacterController.cs
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-1.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-2.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-3.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-4.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-5.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-6.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-7.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta
-    - Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta
     - 
-    m_Values: 01010101010101010101010101010101010101
+    m_Values: 000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
