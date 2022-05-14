@@ -1,0 +1,4 @@
+repository "Sunny Land@Maeda_Laboratory@cloud"
+  path "/"
+    br "/main"
+    co "/main"
